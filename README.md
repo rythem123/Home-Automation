@@ -1,4 +1,4 @@
-#Intelligent Voice based Home-Automation
+Intelligent Voice based Home-Automation-:
 We’ve tried to make an entire IoT enabled (electrical) panel which is not only cost effective but also comes loaded with several interesting features. We have a working prototype for interactive audience engagement. A detailed summary is given below for your pursual.
 IoT enabled Panel
 (Home Automation)
