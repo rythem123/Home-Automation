@@ -3,7 +3,7 @@ We’ve tried to make an entire IoT enabled (electrical) panel which is not only
 IoT enabled Panel
 (Home Automation)
 Components Used:
-1.	ESP8266
+1.	ESP8266 (The above two codes has to be pushed in this device using Arduino IDE)
 2.	T-relay
 3.	ULN 2803 IC 
 4.	Capacitive Touch
