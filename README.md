@@ -1,4 +1,4 @@
-# Home-Automation
+#Intelligent Voice based Home-Automation
 We’ve tried to make an entire IoT enabled (electrical) panel which is not only cost effective but also comes loaded with several interesting features. We have a working prototype for interactive audience engagement. A detailed summary is given below for your pursual.
 IoT enabled Panel
 (Home Automation)
@@ -15,7 +15,8 @@ Highlights:
 •	Alexa compatible (+ voice control)
 •	Google home compatible (+ voice control)
 •	Supports offline control without internet
-•	Last state remembrance  
+•	Last state remembrance 
+
 Technical Features: 
 •	NODEMCU/ESP8266 based microcontroller design
 •	Cloud based approach
